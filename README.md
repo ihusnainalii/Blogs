@@ -11,16 +11,16 @@ This repository contains projects and code samples related to the articles publi
 Here is a list of projects and their corresponding articles:
 
 1. **[SwiftLint](https://github.com/ihusnainalii/Blogs/tree/main/SwiftLint)**
-   - **Article Title:** [Getting Started with SwiftLint: Installation and Usage Guide for Cleaner Swift Code](https://medium.com/@husnainali593/getting-started-with-swiftlint-installation-and-usage-guide-for-cleaner-swift-code-386fee117fbb)
-   - **Description:** SwiftLint helps enforce Swift coding style and conventions, making your code easier to read, understand, and maintain. While it doesn’t automatically make your code “good,” it ensures adherence to standards that contribute to high-quality code.
+   - [Getting Started with SwiftLint: Installation and Usage Guide for Cleaner Swift Code](https://medium.com/@husnainali593/getting-started-with-swiftlint-installation-and-usage-guide-for-cleaner-swift-code-386fee117fbb)
+   - SwiftLint helps enforce Swift coding style and conventions, making your code easier to read, understand, and maintain. While it doesn’t automatically make your code “good,” it ensures adherence to standards that contribute to high-quality code.
 
 2. **[CustomModifiers](https://github.com/ihusnainalii/Blogs/tree/main/CustomModifiers)**
-   - **Article Title:** [Custom View Modifier in SwiftUI](https://medium.com/@husnainali593/custom-view-modifier-in-swiftui-431f7f10ff2b)
-   - **Description:** View Modifiers can be an easy way to give your views a custom look without much effort. A custom modifier can be a huge help to a project where you have styles that are used frequently.
+   - [Custom View Modifier in SwiftUI](https://medium.com/@husnainali593/custom-view-modifier-in-swiftui-431f7f10ff2b)
+   - View Modifiers can be an easy way to give your views a custom look without much effort. A custom modifier can be a huge help to a project where you have styles that are used frequently.
 
 3. **[ContentUnavailableView](https://github.com/ihusnainalii/Blogs/tree/main/ContentUnavailableView)**
-   - **Article Title:** [Introducing ContentUnavailableView in iOS 17: Creating Elegant Empty States]([URL-to-Article-3](https://medium.com/@husnainali593/introducing-contentunavailableview-in-ios-17-creating-elegant-empty-states-8053ad28d353))
-   - **Description:** With the release of iOS 17, Apple has introduced a new view called ContentUnavailableView, designed to handle empty states in your SwiftUI applications. This new view simplifies the process of creating user-friendly and informative empty states for various scenarios, such as network connection errors, empty carts, and no products in a category etc.
+   - [Introducing ContentUnavailableView in iOS 17: Creating Elegant Empty States]([URL-to-Article-3](https://medium.com/@husnainali593/introducing-contentunavailableview-in-ios-17-creating-elegant-empty-states-8053ad28d353))
+   - With the release of iOS 17, Apple has introduced a new view called ContentUnavailableView, designed to handle empty states in your SwiftUI applications. This new view simplifies the process of creating user-friendly and informative empty states for various scenarios, such as network connection errors, empty carts, and no products in a category etc.
 
 ## How to Use
 
