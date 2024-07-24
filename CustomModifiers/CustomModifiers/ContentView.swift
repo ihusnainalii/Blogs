@@ -13,7 +13,8 @@ struct ContentView: View {
             Image("Thankyou")
                 .resizable()
                 .frame(width: 300, height: 300, alignment: .center)
-                .modifier(RotateWithAnimation())
+                .funcRoundShadow()
+                .heartbeat()
             
         }
         .padding()

@@ -9,6 +9,11 @@ import Foundation
 import SwiftUI
 
 extension View {
+    
+    func heartbeat() -> some View {
+        modifier(Heartbeat())
+    }
+    
     func funcRoundShadow() -> some View {
         modifier(RoundShadow())
     }

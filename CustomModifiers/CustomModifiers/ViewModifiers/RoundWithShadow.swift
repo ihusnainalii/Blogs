@@ -16,6 +16,9 @@ struct RoundWithShadow: ViewModifier {
     func body(content: Content) -> some View {
         content
             .clipShape(Circle())
-            .shadow(color: shadowColor, radius: shadowRadius, x: shadowX, y: shadowY)
+            .shadow(color: shadowColor,
+                    radius: shadowRadius,
+                    x: shadowX,
+                    y: shadowY)
     }
 }
