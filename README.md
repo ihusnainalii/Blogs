@@ -19,7 +19,7 @@ Here is a list of projects and their corresponding articles:
    - View Modifiers can be an easy way to give your views a custom look without much effort. A custom modifier can be a huge help to a project where you have styles that are used frequently.
 
 3. **[ContentUnavailableView](https://github.com/ihusnainalii/Blogs/tree/main/ContentUnavailableView)**
-   - [Introducing ContentUnavailableView in iOS 17: Creating Elegant Empty States]([URL-to-Article-3](https://medium.com/@husnainali593/introducing-contentunavailableview-in-ios-17-creating-elegant-empty-states-8053ad28d353))
+   - [Introducing ContentUnavailableView in iOS 17: Creating Elegant Empty States]([URL-to-Article-3](https://medium.com/@husnainali593/introducing-contentunavailableview-in-ios-17-creating-elegant-empty-states-8053ad28d353)
    - With the release of iOS 17, Apple has introduced a new view called ContentUnavailableView, designed to handle empty states in your SwiftUI applications. This new view simplifies the process of creating user-friendly and informative empty states for various scenarios, such as network connection errors, empty carts, and no products in a category etc.
 
 ## How to Use
